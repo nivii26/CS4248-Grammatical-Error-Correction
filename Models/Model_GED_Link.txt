@@ -1,0 +1,5 @@
+GED model also saved on the Sharepoint link!
+my.sharepoint.com/:f:/g/personal/e0445473_u_nus_edu/EhPBuknlwF5AgTpX3n5ytiMBoWujv9MPD5uak_WmUf2c4A
+
+
+Download and save as 'pytroch_model.bin' in model_save_GED Folder
