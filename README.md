@@ -39,13 +39,8 @@ Train (using Data/..) and run GECTOR from https://github.com/grammarly/gector
 - Change the filepaths as needed
 - Train and run the model to get GECtor_RESULTS/bea2019_output.txt and GECTor_RESULTS/conll_gector_output.txt
 
-STAGE 4
-Tried T5 with https://github.com/scribendi/GEC-T5//
-- Clone the repository
-- Change the training data file paths to Data/Parsed_data_for_T5
-- Train and run the model to get output (However, we do not use these outputs due to poor results)
 
-STAGE 5
+STAGE 4
 ENSEMBLE the outputs generated from BART with GECTor using https://github.com/MaksTarnavskyi/gector-large
 - Clone the repository (optional, as we ONLY use ensemble.py and its dependencies)
 - We ensemble using majority vote
