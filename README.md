@@ -1,5 +1,7 @@
 **BART & GECToR: An Unlikely Alliance for Grammatical Error Correction**
 
+For a detailed analysis and description please view the project report. 
+
 Final Code Base
 	- Data: Contains all the Test, Train, Development datasets that we used for the models
 	
